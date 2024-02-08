@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--O termo AJAX significa Asynchronous JavaScript
+and XML. -->
+<!--Por
+isso que dissemos que, na prática, ele permite a atividade do JavaScript e do XML de maneira
+assíncrona-->
+
+
+<?xml-model href="TESTE_DE_XML_2.xsd"?>
+<correntistas>
+    <conta agencia="0123-4" tipo="física" nome="José maria" numero="000.000-00" />
+
+    <conta agencia="234-8" tipo="jurídica" nome="José maria SA" numero="111.111-11" />
+
+</correntistas>

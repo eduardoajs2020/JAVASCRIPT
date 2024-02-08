@@ -1,0 +1,12 @@
+body{
+    background: -moz-linear-gradient( lightblue, white );
+    color: midnightblue;
+}
+
+#titulo-principal{
+    border: 5px solid #000;
+}
+
+#tamanho {
+    height: 2000px;
+}

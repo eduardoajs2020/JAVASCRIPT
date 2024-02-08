@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--O termo AJAX significa Asynchronous JavaScript
+and XML. -->
+<!--Por
+isso que dissemos que, na prática, ele permite a atividade do JavaScript e do XML de maneira
+assíncrona-->
+
+<correntistas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="TESTE_DE_XML.xsd">
+    <conta agencia="0123-4">
+        <tipo>física</tipo>
+        <nome>José maria</nome>
+        <numero>000.000-00</numero>
+    </conta>
+    <conta agencia="234-8">
+        <tipo>jurídica</tipo>
+        <nome>José maria SA</nome>
+        <numero>111.111-11</numero>
+    </conta>
+
+</correntistas>
